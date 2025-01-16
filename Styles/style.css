@@ -321,7 +321,13 @@ height: 396px;
 @media screen and (max-width: 567px) {
     .hero {
         flex-direction: column;
+        
     }
+    .left-sec{
+        justify-content: center;
+        align-items: center;
+    }
+
 }
 
 @media screen and (max-width: 567px) {
